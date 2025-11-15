@@ -27,7 +27,7 @@ The goal is to demonstrate how to build a fully functional web application using
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/......
+git clone [https://github.com/......](https://github.com/PranjalU001/JAVA-PROJECT.git)
 ```
 
 --
